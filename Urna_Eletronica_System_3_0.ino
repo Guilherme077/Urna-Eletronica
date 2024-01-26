@@ -1,7 +1,4 @@
 /*
-
-THIS CODE IS PROPERTY OF GUILHERME PILZ MOREIRA
-
 Versão 3.0
 
 Fabricado por: Guilherme P. Moreira
